@@ -1,0 +1,7 @@
+-*-   bgz 1.0   *   (c) Gazlan, 2007   -*-
+
+Babylon packed DB to .gz archive converter
+
+Usage: bgz.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
